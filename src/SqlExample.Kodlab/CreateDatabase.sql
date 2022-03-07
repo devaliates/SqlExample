@@ -1,0 +1,17 @@
+﻿CREATE DATABASE DIJIBIL
+ON PRIMARY
+(
+	NAME = N'DIJIBIL_Data',
+	--Klasörün var olduğuna emin ol!
+	FILENAME = N'C:\Databases\DIJIBIL_Data.mdf',
+	SIZE= 21632KB,
+	FILEGROWTH = 16384KB
+)
+LOG ON
+(
+	NAME = N'DIJIBIL_Log',
+	FILENAME = N'C:\Databases\DIJIBIL_Log.ldf',
+	SIZE= 21632KB,
+	FILEGROWTH = 16384KB
+)
+GO
