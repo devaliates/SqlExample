@@ -73,5 +73,6 @@
     <None Include="TarihFonksiyonlari.sql" />
     <None Include="TopKomutu.sql" />
     <None Include="DistinctKomutu.sql" />
+    <None Include="GroupByKomutu.sql" />
   </ItemGroup>
 </Project>
