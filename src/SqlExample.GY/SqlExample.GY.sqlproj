@@ -64,5 +64,6 @@
     <None Include="SelectKomutu.sql" />
     <None Include="WhereKomutu.sql" />
     <None Include="WhereBetweenKomutu.sql" />
+    <None Include="WhereInKomutu.sql" />
   </ItemGroup>
 </Project>
