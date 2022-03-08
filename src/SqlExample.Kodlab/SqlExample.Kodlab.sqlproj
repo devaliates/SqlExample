@@ -59,5 +59,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="CreateDatabase.sql" />
+    <None Include="Degiskenler.sql" />
   </ItemGroup>
 </Project>
