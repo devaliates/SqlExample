@@ -70,5 +70,6 @@
     <None Include="AggregateFonksiyonlari.sql" />
     <None Include="StringFonksiyonlari.sql" />
     <None Include="SayisalDeger.sql" />
+    <None Include="TarihFonksiyonlari.sql" />
   </ItemGroup>
 </Project>
