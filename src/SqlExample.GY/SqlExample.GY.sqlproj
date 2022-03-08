@@ -67,5 +67,6 @@
     <None Include="WhereInKomutu.sql" />
     <None Include="LikeSorgusu.sql" />
     <None Include="LikeEscapeSorgu.sql" />
+    <None Include="AggregateFonksiyonlari.sql" />
   </ItemGroup>
 </Project>
