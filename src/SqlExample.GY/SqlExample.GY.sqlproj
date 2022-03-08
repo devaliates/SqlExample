@@ -72,5 +72,6 @@
     <None Include="SayisalDeger.sql" />
     <None Include="TarihFonksiyonlari.sql" />
     <None Include="TopKomutu.sql" />
+    <None Include="DistinctKomutu.sql" />
   </ItemGroup>
 </Project>

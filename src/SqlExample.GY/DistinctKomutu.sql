@@ -1,0 +1,1 @@
+﻿select distinct sehir from personeller
