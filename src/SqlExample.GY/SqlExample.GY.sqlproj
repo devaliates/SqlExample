@@ -75,5 +75,6 @@
     <None Include="DistinctKomutu.sql" />
     <None Include="GroupByKomutu.sql" />
     <None Include="GroupByWhereKullanimi.sql" />
+    <None Include="HavingKomutu.sql" />
   </ItemGroup>
 </Project>
