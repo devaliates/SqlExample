@@ -60,5 +60,6 @@
   <ItemGroup>
     <None Include="CreateNorthwindDatabase.sql" />
     <None Include="CreateNorthwindDatabaseTurkce.sql" />
+    <None Include="USEKomutu.sql" />
   </ItemGroup>
 </Project>
