@@ -68,5 +68,6 @@
     <None Include="LikeSorgusu.sql" />
     <None Include="LikeEscapeSorgu.sql" />
     <None Include="AggregateFonksiyonlari.sql" />
+    <None Include="StringFonksiyonlari.sql" />
   </ItemGroup>
 </Project>
