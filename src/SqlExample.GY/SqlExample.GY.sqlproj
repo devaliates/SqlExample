@@ -62,5 +62,6 @@
     <None Include="CreateNorthwindDatabaseTurkce.sql" />
     <None Include="USEKomutu.sql" />
     <None Include="SelectKomutu.sql" />
+    <None Include="WhereKomutu.sql" />
   </ItemGroup>
 </Project>
