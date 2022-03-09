@@ -79,5 +79,6 @@
     <None Include="TablolariYanYanaBirlestirme.sql" />
     <None Include="InnerJoin.sql" />
     <None Include="InnerJoinIkidenFazlaTablo.sql" />
+    <None Include="InnerJoinAyniTabloyuBirlestirme.sql" />
   </ItemGroup>
 </Project>
