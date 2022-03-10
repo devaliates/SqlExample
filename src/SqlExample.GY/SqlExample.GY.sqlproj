@@ -80,5 +80,6 @@
     <None Include="InnerJoin.sql" />
     <None Include="InnerJoinIkidenFazlaTablo.sql" />
     <None Include="InnerJoinAyniTabloyuBirlestirme.sql" />
+    <None Include="InnerJoinGroupBy.sql" />
   </ItemGroup>
 </Project>
